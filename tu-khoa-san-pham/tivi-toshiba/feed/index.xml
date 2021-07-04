@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tivi-toshiba &#8211; Điện Máy Thành Nam</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/tivi-toshiba/feed/" rel="self" type="application/rss+xml" />
+	<link>https://k4guy4.github.io/dienmaythanhnam</link>
+	<description>Cửa Hàng Điện Máy Uy Tín Nhất VN</description>
+	<lastBuildDate>Sun, 04 Jul 2021 10:25:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>TIVI TOSHIBA L3650</title>
+		<link>https://k4guy4.github.io/dienmaythanhnam/sản%20phẩm/tivi-toshiba-l3650/</link>
+					<comments>https://k4guy4.github.io/dienmaythanhnam/sản%20phẩm/tivi-toshiba-l3650/#respond</comments>
+		
+		<dc:creator><![CDATA[Le Cao Thanh Nam]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 03:13:02 +0000</pubDate>
+				<guid isPermaLink="false">https://k4guy4.github.io/dienmaythanhnam/?post_type=product&#038;p=102</guid>
+
+					<description><![CDATA[TIVI TOSHIBA L3650 Công nghệ Contrast Booster mang đến độ tương phản vượt trội. Công nghệ CEVO Engine giúp tái tạo màu sắc chân thực. Âm thanh vòm lôi cuốn với công nghệ Dolby Digital Plus.]]></description>
+										<content:encoded><![CDATA[<p class="short-article__title">TIVI TOSHIBA L3650</p>
+<ul>
+<li>Công nghệ Contrast Booster mang đến độ tương phản vượt trội.</li>
+<li>Công nghệ CEVO Engine giúp tái tạo màu sắc chân thực.</li>
+<li>Âm thanh vòm lôi cuốn với công nghệ Dolby Digital Plus.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://k4guy4.github.io/dienmaythanhnam/sản%20phẩm/tivi-toshiba-l3650/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

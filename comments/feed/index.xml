@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Điện Máy Thành Nam	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://k4guy4.github.io/dienmaythanhnam</link>
+	<description>Cửa Hàng Điện Máy Uy Tín Nhất VN</description>
+	<lastBuildDate>Sun, 04 Jul 2021 10:00:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Phản hồi cho ANDROID TIVI TCL 4K P615 bởi Le Cao Thanh Nam		</title>
+		<link>https://k4guy4.github.io/dienmaythanhnam/sản%20phẩm/android-tivi-tcl-4k-p615/#comment-5</link>
+
+		<dc:creator><![CDATA[Le Cao Thanh Nam]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 09:59:42 +0000</pubDate>
+		<guid isPermaLink="false">https://k4guy4.github.io/dienmaythanhnam/?post_type=product&#038;p=118#comment-5</guid>
+
+					<description><![CDATA[Shop có giao tận nhà không ạ]]></description>
+			<content:encoded><![CDATA[<p>Shop có giao tận nhà không ạ</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho TỦ LẠNH SAMSUNG INVERTER RT-K50822C bởi Le Cao Thanh Nam		</title>
+		<link>https://k4guy4.github.io/dienmaythanhnam/sản%20phẩm/tu-lanh-samsung-inverter-rt-k50822c/#comment-4</link>
+
+		<dc:creator><![CDATA[Le Cao Thanh Nam]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 09:12:20 +0000</pubDate>
+		<guid isPermaLink="false">https://k4guy4.github.io/dienmaythanhnam/?post_type=product&#038;p=234#comment-4</guid>
+
+					<description><![CDATA[cho hỏi shop có bán qua hình thức online k ạ]]></description>
+			<content:encoded><![CDATA[<p>cho hỏi shop có bán qua hình thức online k ạ</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
